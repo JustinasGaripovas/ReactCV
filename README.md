@@ -4,17 +4,15 @@ React website, which is made to serve as my CV. Nothing too fancy.
 
 ## Getting Started
 
-To start this website on your machine.
-
 Required:
-* npm
+* npm or yarn
 * NodeJS
 
 ```
 cd ReactCV
 ```
 
-To start website localy
+To start website locally
 
 ```
 npm start
